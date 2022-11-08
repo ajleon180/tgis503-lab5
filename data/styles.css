@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+    margin: 0;
+ }
+ 
+ #map {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+ }
+
+ .instructions {
+   background-color: white;
+   border-style: solid;
+   border-width: thin;
+   border-radius: 15px;
+   padding: 10px 10px 10px 10px;
+   font-weight: bold;
+ }
